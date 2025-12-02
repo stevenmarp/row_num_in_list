@@ -31,7 +31,7 @@ Perfect for:
             "rowno_in_tree/static/src/xml/list_render.xml",
         ],
     },
-    "images": ["static/description/banner.png"],
+    "images": ["static/description/banner.png", "static/description/icon.png"],
     "license": "AGPL-3",
     "author": "stevenmarp",
     "website": "https://github.com/stevenmarp",
