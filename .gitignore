@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Odoo
+*.pyc
+*.pyo
+*.swp
+.~lock.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Temp files
+*.log
+*.pot
+*.mo
+*~
+
+# Banner placeholder (remove when you have real banner)
+static/description/banner.png.txt
