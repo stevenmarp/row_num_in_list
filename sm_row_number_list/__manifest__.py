@@ -28,7 +28,7 @@ Perfect for:
     "data": [],
     "assets": {
         "web.assets_backend": [
-            "rowno_in_tree/static/src/xml/list_render.xml",
+            "sm_row_number_list/static/src/xml/list_render.xml",
         ],
     },
     "images": ["static/description/banner.png", "static/description/icon.png"],
