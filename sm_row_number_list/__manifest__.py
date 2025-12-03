@@ -38,4 +38,8 @@ Perfect for:
     "installable": True,
     "application": False,
     "auto_install": False,
+    "price": 18,
+    "currency": "USD",
+
+    
 }
