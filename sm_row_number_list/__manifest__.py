@@ -1,6 +1,6 @@
 {
     "name": "Row Number in List View",
-    "version": "17.0.1.0.0",
+    "version": "18.0.1.0.0",
     "summary": "Display automatic row numbers in all tree/list views",
     "category": "Technical",
     "description": """
@@ -28,7 +28,7 @@ Perfect for:
     "data": [],
     "assets": {
         "web.assets_backend": [
-            "rowno_in_tree/static/src/xml/list_render.xml",
+            "sm_row_number_list/static/src/xml/list_render.xml",
         ],
     },
     "images": ["static/description/banner.png", "static/description/icon.png"],
