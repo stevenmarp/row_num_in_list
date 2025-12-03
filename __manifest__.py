@@ -1,6 +1,6 @@
 {
     "name": "Row Number in List View",
-    "version": "18.0.1.0.0",
+    "version": "16.0.1.0.0",
     "summary": "Display automatic row numbers in all tree/list views",
     "category": "Technical",
     "description": """
