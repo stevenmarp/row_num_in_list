@@ -1,8 +1,8 @@
 {
     "name": "Row Number in List View",
-    "version": "17.0.1.0.0",
+    "version": "18.0.1.0.0",
     "summary": "Display automatic row numbers in all tree/list views",
-    "category": "Technical",
+    "category": "Extra Tools",
     "description": """
 Row Number in List View
 ========================
@@ -34,9 +34,9 @@ Perfect for:
     "images": ["static/description/banner.png", "static/description/icon.png"],
     "license": "AGPL-3",
     "author": "stevenmarp",
-    "website": "https://github.com/stevenmarp",
+    "website": "",
     "maintainer": "stevenmarp",
-    "support": "stevenmarp@github.com",
+    "support": "",
     "installable": True,
     "application": False,
     "auto_install": False,
